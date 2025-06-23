@@ -4,7 +4,7 @@
   "main": "expo-router/entry",
   "private": true,
 
-  "homepage": "https://sukhmani.github.io/ResumeRNE"
+  "homepage": "https://sukhmani.github.io/ResumeRNE",
 
   "scripts": {
     "start": "expo start",
